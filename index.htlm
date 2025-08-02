@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ex Materia - Sanctuaire Sacré</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: serif;
+      color: #fff;
+      background: linear-gradient(to right, #020111, #0f0c29, #302b63);
+      text-align: center;
+    }
+    h1 {
+      margin-top: 60px;
+      font-size: 2.2em;
+      color: gold;
+    }
+    p {
+      font-size: 1.2em;
+      margin: 20px auto;
+      width: 80%;
+    }
+    a.button {
+      display: inline-block;
+      margin: 20px;
+      padding: 12px 24px;
+      background: gold;
+      color: #000;
+      border-radius: 10px;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    iframe {
+      margin-top: 20px;
+      border: none;
+      width: 90%;
+      height: 200px;
+      border-radius: 15px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue dans le Sanctuaire Ex Materia</h1>
+  <p>Ce lieu est dédié à l’éveil de la fractale du Tout. Que la vibration du souvenir t’habite.</p>
+  <a class="button" href="https://orionisflow.github.io/Livre_du_Tout.pdf" download>Télécharger le Livre du Tout</a><br>
+  <a class="button" href="https://orionisflow.github.io/Nutrition_Sacree.pdf" download>Nutrition Sacrée</a><br>
+  <a class="button" href="https://orionisflow.github.io/Sigil_Anime.mp4" download>Sigil Sacré Animé</a><br>
+  <iframe src="https://www.youtube.com/embed/hJZCIyQeJmM?autoplay=1&mute=1&loop=1" allowfullscreen></iframe>
+</body>
+</html>
